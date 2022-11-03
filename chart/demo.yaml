@@ -5,7 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: iad.ocir.io/id5lady22ken/demo
+  #repository: iad.ocir.io/id5lady22ken/demo
+  repository: iad.ocir.io/idlfjr8tlch8/demo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
 
